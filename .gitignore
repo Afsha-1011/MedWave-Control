@@ -16,6 +16,9 @@ dist/
 *.egg-info/
 pip-wheel-metadata/
 
+# Local data
+auth_faces/
+
 # Binary data
 *.pyc
 *.pyo
